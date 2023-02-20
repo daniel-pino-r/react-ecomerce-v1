@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta nike",
+        "img": "imgs/camiseta_png.png",
+        "price": 85000
+    },
+    {
+        "id": 2,
+        "nombre": "Bolso gucci",
+        "img": "imgs/bolso_gucci.png",
+        "price": 789000  
+    },
+    {
+        "id": 3,
+        "nombre": "Gorra nike",
+        "img": "imgs/gorra_nike.png",
+        "price": 160000
+    },
+    {
+        "id": 4,
+        "nombre": "Pataloneta nike",
+        "img": "imgs/pantaloneta_nike.png",
+        "price": 90000 
+    },
+    {
+        "id": 5,
+        "nombre": "Tenis nike rojos",
+        "img": "imgs/tenis_nike_rojos.png",
+        "price": 235000 
+    },
+    {
+        "id": 6,
+        "nombre": "Tenis gucci",
+        "img": "imgs/tenis_gucci.png",
+        "price": 611000 
+    },
+    {   
+        "id": 7,
+        "nombre": "Tenis nike A71",
+        "img": "imgs/tenis_nike_rojonegro.png",
+        "price": 397000
+    },
+    {   
+        "id": 8,
+        "nombre": "Tenis vans",
+        "img": "imgs/vans.png",
+        "price": 197000
+    }
+]
