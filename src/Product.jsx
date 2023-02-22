@@ -4,9 +4,9 @@ import { convertirPrecio } from "./convertirP";
 import productosJson from "./productos.json";
 
 
-export const Product = (props) => {
+export const Product = () => {
 
-  let productos = productosJson;
+  let productos = productosJson; //ACTUALIZADO
 
 
   return (
